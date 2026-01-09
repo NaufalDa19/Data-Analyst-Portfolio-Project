@@ -85,6 +85,8 @@ Dashboard interaktif yang menampilkan visualisasi komprehensif dari data COVID-1
 - 📈 Tren Tingkat Infeksi Populasi - Line chart yang menunjukkan tren persentase populasi terinfeksi dari waktu ke waktu, termasuk perbandingan data aktual dan estimasi untuk beberapa negara.
 - 🎛️ Legenda dan Indikator Warna Interaktif - Memudahkan pengguna membedakan negara serta jenis data (aktual vs estimasi).
 
+**File Tableau:** [Tableau File (.twbx)]("https://github.com/NaufalDa19/Data-Analyst-Portfolio-Project/blob/main/COVID-19%20Dashboard%20with%20Tableau.twbx")
+
 **Link Dashboard:** [COVID-19 Dashboard with Tableau](https://public.tableau.com/app/profile/naufal.dwi.alrizqi/viz/COVID-19DashboardwithTableau/Dashboard1)
 
 **Tools:** Tableau Public
